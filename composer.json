@@ -1,15 +1,15 @@
 {
     "require": {
-        "zendframework/zend-http" : "2.3.2",
-        "zendframework/zend-uri" : "2.3.2",
-        "zendframework/zend-validator" : "2.3.2",
-        "monolog/monolog" : "1.*",
-        "symfony/finder" : "2.0.*",
-        "symfony/http-foundation": "2.3.*@dev",
-        "symfony/serializer": "2.8.*",
-        "symfony/class-loader": "2.0.4",
-        "symfony/yaml" : "2.0.*",
-        "twbs/bootstrap": "^3.3",
-        "components/jquery": "^2.2"
+        "zendframework/zend-http": "^2.9",
+        "zendframework/zend-uri": "^2.6",
+        "zendframework/zend-validator": "^2.11",
+        "monolog/monolog": "^1.24",
+        "symfony/finder": "^4.2",
+        "symfony/http-foundation": "^4.2",
+        "symfony/serializer": "^4.2",
+        "symfony/class-loader": "^3.4",
+        "symfony/yaml": "^4.2",
+        "twbs/bootstrap": "^4.2",
+        "components/jquery": "^3.3"
     }
 }
