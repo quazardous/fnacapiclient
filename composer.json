@@ -1,15 +1,22 @@
 {
+    "name" : "Ikemia971/fnacapiclient",
+    "type" : "library",
     "require": {
         "zendframework/zend-http": "^2.9",
         "zendframework/zend-uri": "^2.6",
         "zendframework/zend-validator": "^2.11",
         "monolog/monolog": "^1.24",
-        "symfony/finder": "^4.2",
-        "symfony/http-foundation": "^4.2",
-        "symfony/serializer": "^4.2",
+        "symfony/finder": "^3.0",
+        "symfony/http-foundation": "^3.0",
+        "symfony/serializer": "^3.0",
         "symfony/class-loader": "^3.4",
-        "symfony/yaml": "^4.2",
-        "twbs/bootstrap": "^4.2",
+        "symfony/yaml": "^3.0",
+        "twbs/bootstrap": "^3.3",
         "components/jquery": "^3.3"
+    },
+    "autoload" : {
+        "psr-4" : {
+            "FnacApiClient\\" : "contrib/fnacapiclient/src/FnacApiClient/"
+        }
     }
 }
