@@ -1,7 +1,7 @@
 {
-    "name" : "Ikemia971/fnacapiclient",
+    "name" : "FnacMarketplace/fnacapiclient",
     "type" : "library",
-    "version" : "1.0.3",
+    "version" : "1.0.4",
     "require": {
         "zendframework/zend-http": "^2.9",
         "zendframework/zend-uri": "^2.6",
