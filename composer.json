@@ -1,7 +1,7 @@
 {
     "name" : "FnacMarketplace/fnacapiclient",
     "type" : "library",
-    "version" : "1.0.4",
+    "version" : "dev-master",
     "require": {
         "zendframework/zend-http": "^2.9",
         "zendframework/zend-uri": "^2.6",
